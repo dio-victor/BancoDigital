@@ -8,7 +8,7 @@ Sistema de banco digital criado como um desafio do bootcamp de Backend com Java 
 
 ### Clonar o repositório e entrar na pasta do projeto
 ```bash
-git clone https://github.com/dio-victor/BancoDigital.git
+git clone git@github.com:dio-victor/BancoDigital.git
 cd BancoDigital
 ```
 
